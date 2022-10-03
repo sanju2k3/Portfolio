@@ -1,6 +1,6 @@
 <h2 align="center">
-  ## Portfolio Website <br/>
-  <a href="http://sanjay-portfolio.tech/" target="_blank">##sanjay-portfolio.tech</a>
+  Portfolio Website <br/>
+  <a href="http://sanjay-portfolio.tech/" target="_blank">My Portfolio</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/ar.gif" />
