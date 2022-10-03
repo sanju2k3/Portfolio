@@ -3,7 +3,7 @@
   <a href="http://sanjay-portfolio.tech/" target="_blank">sanjay-portfolio.tech</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/portfolio.mp4" />
+  <img alt="Demo" src="./Images/portfolio.gif" />
 </div>
 
 <br/>
