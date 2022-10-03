@@ -2,7 +2,7 @@
   Portfolio Website 
   
   <br/>
-  <a href="http://sanjay-portfolio.tech/" target="_blank">My Portfolio</a>
+  <a href="http://sanjay-portfolio.tech/" target="_blank">My Folio 🙋‍♂️</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/ar.gif" />
